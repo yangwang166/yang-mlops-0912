@@ -1,0 +1,27 @@
+{
+  "yang-mlops-project-0912_batch_inference_job_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "1123074489432692"
+  },
+  "yang-mlops-project-0912_experiment_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "3350374007148103"
+  },
+  "yang-mlops-project-0912_experiment_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/yang-mlops-project-0912/staging-yang-mlops-project-0912-experiment"
+  },
+  "yang-mlops-project-0912_model_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "staging-yang-mlops-project-0912-model"
+  },
+  "yang-mlops-project-0912_training_job_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "535117853200006"
+  }
+}
