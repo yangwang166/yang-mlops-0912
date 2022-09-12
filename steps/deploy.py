@@ -24,6 +24,7 @@ def deploy(model_uri, env):
             stage=target_stage,
             archive_existing_versions=True,
         )
+        print("Deploy model")
 
 
 if __name__ == "__main__":
