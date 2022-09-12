@@ -48,8 +48,7 @@ jobs:
                 "spark.databricks.cluster.profile": "singleNode",
                 "spark.master": "local[*, 4]"
               },
-              "instance_pool_id": "0908-054137-morns22-pool-2n8ivee0",
-              "driver_instance_pool_id": "0908-054137-morns22-pool-2n8ivee0",
+              "node_type_id": "${{ env.NODE_TYPE_ID }}",
               "custom_tags": {
                 "ResourceClass": "SingleNode"
               }
